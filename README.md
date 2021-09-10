@@ -1,12 +1,9 @@
-# SE-L1T15---Capstone-Project-II
-My second Capstone Project in the first level of my Hyperion Development course.
-
-## This project is used to run a simple Python game.
+# Simple Python Game
 
 
 * **What is this repo or project?**
 
-    This project is used to run a simple python game.
+    This project is used to run a python game/ challenge.
 * **How does it work?**
 
     This project works with python only and is executed using the 'pygame - Compulsory Task.py' file. The other files are image files used to make the program run. Simply use the arrow keys to move the character in the chosen direction.
@@ -30,4 +27,4 @@ To test your input/ code, you can check to see if the game is over when you touc
 
 ## How you can help
 
-No help is needed right now, as these are currently being marked to Hyperion-Development's standards. However, if you do see improvements that can be made, then please feel free to point them out :D
+No help is needed right now, as this task is complete(I am doing research for a more complicated game I can make). However, if you do see improvements that can be made, then please feel free to point them out :D
